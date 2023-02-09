@@ -1,4 +1,4 @@
-
+/* CSS organized to attempt to mimic HTML stucture as to where things show up, otherwise names are grouped with like areas when it gets down to the classes, otherwise i usually will put them in order of elements, classes, id's, then media queries at the bottom */
 
 * {
   box-sizing: border-box;
