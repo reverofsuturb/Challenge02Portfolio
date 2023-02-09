@@ -9,7 +9,7 @@ N/A
 
 ## Usage
 
-The navigation links located in the navigation bar on the left will take you to the appropriate sections of the website. The images of projects will not bring you anywhere, they are linked to null as placeholders for future projects. Be sure to resize the website to see how it collapses for smaller width screens! If viewing the code be sure to r made as part of this refactor. There is a link to the website in the about section of the repository, here is a a screenshot of the website: ![image](https://user-images.githubusercontent.com/123116188/217740712-cb4b6814-c41d-44a5-9672-82778f03685b.png)
+The navigation links located in the navigation bar on the left will take you to the appropriate sections of the website. The images of projects will not bring you anywhere, they are linked to null as placeholders for future projects. Be sure to resize the website to see how it collapses for smaller width screens. If viewing the code there are comments detailing a few different thoughts and ideas while writing the code. There is a link to the website in the about section of the repository, here is a a screenshot of the website: ![image](https://user-images.githubusercontent.com/123116188/217740712-cb4b6814-c41d-44a5-9672-82778f03685b.png)
 
 ## Credits
 
